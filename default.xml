@@ -3,6 +3,6 @@
   <include name="_remotes.xml"/>
   <default remote="github" sync-j="8" revision="refs/heads/master"/>
   <project path="river" name="riverwm/river"/>
-  <project path="zig-waylock" name="ifreund/zig-waylock"/>
+  <project path="zig-waylock" name="ifreund/waylock"/>
   <project path="hello-zig-wayland" name="ifreund/hello-zig-wayland"/>
 </manifest>
