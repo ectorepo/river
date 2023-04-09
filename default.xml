@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <include name="_remotes.xml"/>
+  <default remote="github" sync-j="8" revision="refs/heads/master"/>
+  <project path="river" name="riverwm/river"/>
+  <project path="zig-waylock" name="ifreund/zig-waylock"/>
+  <project path="hello-zig-wayland" name="ifreund/hellow-zig-wayland"/>
+  <project path="tinywl" name="swaywm/tinywl"/>
+</manifest>
