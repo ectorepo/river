@@ -5,5 +5,4 @@
   <project path="river" name="riverwm/river"/>
   <project path="zig-waylock" name="ifreund/zig-waylock"/>
   <project path="hello-zig-wayland" name="ifreund/hello-zig-wayland"/>
-  <project path="tinywl" name="swaywm/tinywl"/>
 </manifest>
