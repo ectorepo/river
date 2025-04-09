@@ -1,6 +1,7 @@
 #+title:     Ectorepo: River
 #+author:    David Conner
 #+email:     noreply@te.xel.io
+#+PROPERTY: header-args :comments none
 
 A list of River and River-related tools, since i'm interested in Zig. To
 understand how to use this Repo repo, see the [[https://github.com/ectorepo/ectorepo][ectorepo/ectorepo]] Repo ... repo.
